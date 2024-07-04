@@ -85,6 +85,17 @@ const readline = require('readline').createInterface({
   }
   
   main();
-  
+  /*
+    This calculator project was exciting! As someone new to JavaScript, but with a fascination for digital 
+    currencies and global finance, I wanted to build something that combined both. The challenge was integrating 
+    currency conversion while keeping the core functionality of a calculator.
+    
+    Here's a breakdown of the logic and structure: The program first asks if you want 
+    to do calculations or currency conversion. If it's calculations, it follows the standard 
+    logic of prompting for numbers, operators, and performing the chosen operation. For 
+    currency conversion, it retrieves the from/to currencies and amount, uses exchange 
+    rates (initially placeholders, but could be live API calls), and displays the converted 
+    amount.  Overall, it was a great way to practice JavaScript while combining my interests!
+  */
   
   
